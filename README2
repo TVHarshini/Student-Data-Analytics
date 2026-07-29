@@ -1,0 +1,226 @@
+Data Analytics and Visualization Lab Experiments
+Student Details
+Name: Harshini T V
+Department: Computer Science and Engineering
+College: Chennai Institute of Technology
+Subject: Data Analytics and Visualization Laboratory
+Platform Used: Google Colab
+Language: Python
+📖 About
+
+This repository contains the implementation of various Data Analytics and Visualization laboratory experiments using Python. The experiments cover data preprocessing, visualization, statistical analysis, hypothesis testing, regression analysis, classification, and time series forecasting using popular Python libraries such as NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn, and Statsmodels.
+
+🛠 Technologies Used
+Python
+Google Colab
+NumPy
+Pandas
+Matplotlib
+Seaborn
+SciPy
+Scikit-learn
+Statsmodels
+📚 Experiment List
+Experiment 1 – Installation of Python Libraries
+
+Objective
+
+Install and verify the required Python libraries used in data analytics.
+
+Description
+
+Imported NumPy, Pandas, Matplotlib, Seaborn, SciPy, Plotly, Bokeh, Statsmodels, and JupyterLab.
+Verified the installed version of each library.
+Experiment 2 – NumPy Operations
+
+Objective
+
+Learn basic NumPy array operations.
+
+Description
+
+Created 1D, 2D, and 0D arrays.
+Performed indexing and slicing.
+Executed arithmetic operations.
+Used aggregation functions.
+Applied Boolean masking and fancy indexing.
+Reshaped arrays.
+Worked with structured arrays.
+Experiment 3 – Pandas Data Analysis
+
+Objective
+
+Perform data manipulation using Pandas.
+
+Description
+
+Created DataFrames.
+Displayed dataset information.
+Handled missing values.
+Created new columns.
+Filtered and sorted data.
+Grouped data.
+Exported processed data to CSV.
+Experiment 4 – Reading Data from Different Sources
+
+Objective
+
+Learn to import data from multiple sources.
+
+Description
+
+Created sample datasets.
+Read data from online sources.
+Filled missing values.
+Saved processed CSV and Excel files.
+Experiment 5 – Exploratory Data Analysis (EDA)
+
+Objective
+
+Explore the characteristics of a dataset.
+
+Description
+
+Loaded the Iris dataset.
+Displayed summary statistics.
+Visualized feature distributions.
+Created boxplots and pairplots.
+Performed species-wise analysis.
+Experiment 6 – Univariate Analysis
+
+Objective
+
+Perform statistical analysis on numerical features.
+
+Description
+
+Calculated mean, median, mode, variance, standard deviation, skewness, and kurtosis for diabetes datasets.
+Experiment 7 – Linear and Logistic Regression
+
+Objective
+
+Build predictive models.
+
+Description
+
+Applied Linear Regression.
+Calculated R² score.
+Applied Logistic Regression.
+Measured prediction accuracy.
+Experiment 8 – Multiple Linear Regression
+
+Objective
+
+Predict one variable using multiple independent variables.
+
+Description
+
+Selected multiple features.
+Built regression models.
+Evaluated performance using R² score.
+Experiment 9 – Comparison of Datasets
+
+Objective
+
+Compare statistical and machine learning results.
+
+Description
+
+Compared univariate statistics.
+Compared regression performance.
+Compared classification accuracy.
+Experiment 10 – Normal Distribution Analysis
+
+Objective
+
+Analyze the distribution of numerical data.
+
+Description
+
+Drew histograms.
+Plotted normal distribution curves.
+Compared Glucose and BMI distributions.
+Experiment 11 – Z-Test
+
+Objective
+
+Perform hypothesis testing using the Z-Test.
+
+Description
+
+Tested whether the mean glucose level differs from a given value.
+Calculated Z-statistic and p-value.
+Interpreted hypothesis test results.
+Experiment 12 – Independent T-Test
+
+Objective
+
+Compare the means of two datasets.
+
+Description
+
+Applied Independent T-Test.
+Compared Glucose, Blood Pressure, and BMI.
+Evaluated statistical significance using p-values.
+Experiment 13 – One-Way ANOVA
+
+Objective
+
+Compare multiple group means.
+
+Description
+
+Applied ANOVA on diabetes datasets.
+Calculated F-statistic and p-value.
+Compared numerical features.
+Experiment 14 – Linear Regression Model Evaluation
+
+Objective
+
+Evaluate regression performance.
+
+Description
+
+Built Linear Regression models.
+Calculated R² Score, MSE, and MAE.
+Compared predicted and actual values.
+Experiment 15 – Logistic Regression Model Evaluation
+
+Objective
+
+Evaluate classification performance.
+
+Description
+
+Built Logistic Regression models.
+Calculated Accuracy, Precision, Recall, and F1-Score.
+Visualized Confusion Matrix.
+Experiment 16 – Time Series Forecasting
+
+Objective
+
+Analyze and forecast time-series data.
+
+Description
+
+Visualized glucose levels.
+Performed seasonal decomposition.
+Applied Moving Average smoothing.
+Forecasted future values using the ARIMA model.
+📈 Learning Outcomes
+
+After completing these experiments, the following concepts were learned:
+
+Data preprocessing
+Data manipulation using Pandas
+Numerical computing with NumPy
+Data visualization
+Exploratory Data Analysis (EDA)
+Statistical analysis
+Hypothesis testing
+Linear Regression
+Logistic Regression
+Multiple Regression
+Time Series Analysis
+ARIMA Forecasting
+Machine Learning model evaluation
